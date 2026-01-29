@@ -10,19 +10,3 @@ I build **intelligent, reliable software** by combining **AI, automation, and mo
 **Web:** HTML, CSS, Tailwind CSS, JavaScript, React.js  
 **Automation:** Selenium, TestNG, Cucumber, REST Assured, SQL, Jenkins  
 **AI:** Python, LLaMA, LangChain, RAG, Vector DBs  
-
----
-
-## 📌 Featured Projects
-
-🛒 E-Commerce Automation  
-🧠 WellNet – Medical AI  
-🤖 LLaMA Chatbot  
-💧 Water Quality Model  
-📝 Form Validation System  
-
----
-
-## 🎯 Goal
-
-Become a **Full-Stack AI Engineer** building real, intelligent products.
