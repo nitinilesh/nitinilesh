@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nilesh Patel  
-Full-Stack Developer | AI • Automation • Web Development  
+Full-Stack Developer | AI • Web Development  
 
 I build **intelligent, reliable software** by combining **AI, automation, and modern web technologies**.
 
