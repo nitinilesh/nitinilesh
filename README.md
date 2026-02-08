@@ -7,6 +7,5 @@ I build **intelligent, reliable software** by combining **AI, automation, and mo
 
 ## 🧰 Tech Stack
 
-**Web:** HTML, CSS, Tailwind CSS, JavaScript, React.js  
-**Automation:** Selenium, TestNG, Cucumber, REST Assured, SQL, Jenkins  
+**Web:** React.js,TypeScript, JavaScript, Redux, HTML, CSS, Tailwind CSS  
 **AI:** Python, LLaMA, LangChain, RAG, Vector DBs  
