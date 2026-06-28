@@ -1,45 +1,94 @@
-# 👋 Hi, I'm Nilesh Patel  
-**QA Automation Engineer | Selenium | Rest Assured | Java | API & UI Testing**
+# 👋 Hi, I'm Nilesh Patel
 
-I specialize in building **scalable test automation frameworks** to ensure software quality, reliability, and performance.  
-Experienced in **UI automation, API testing, database validation, and automation framework design** using industry best practices.
+### Software Engineer | React Developer | Java | Spring Boot | Building Modern Web Applications
 
-I focus on creating **maintainable, efficient, and production-ready automation solutions**.
+I'm a Software Engineer passionate about building **scalable, responsive, and user-centric web applications**. I enjoy transforming ideas into production-ready products using modern frontend technologies while collaborating across the backend to deliver complete solutions.
 
----
-
-## 🧰 Tech Stack
-
-**Automation Testing:**  
-Selenium WebDriver • Rest Assured • TestNG • Page Object Model (POM)
-
-**Programming:**  
-Java • SQL • JavaScript
-
-**API & Database Testing:**  
-REST APIs • JSON • Postman • SQL Server • MySQL
-
-**Tools & Frameworks:**  
-Maven • Git • GitHub • GitLab CI • Apache POI • Jenkins (Basic)
-
-**Web Technologies (Supportive):**  
-React • TypeScript • HTML • CSS • Tailwind CSS
+My experience includes developing **React-based Single Page Applications**, integrating REST APIs, optimizing application performance, and contributing to backend services built with Java and Spring Boot. I also have a strong foundation in **Data Structures & Algorithms**, enabling me to write clean, efficient, and maintainable code.
 
 ---
 
-## 🚀 What I Do
+## 💻 Tech Stack
 
-- Build end-to-end UI automation frameworks using Selenium  
-- Automate REST APIs using Rest Assured  
-- Perform database validation using SQL  
-- Design maintainable frameworks using POM and TestNG  
-- Integrate automation with CI/CD pipelines  
+### Frontend
+
+* React.js
+* TypeScript
+* JavaScript (ES6+)
+* Redux Toolkit
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Backend
+
+* Java
+* Spring Boot
+* REST APIs
+
+### Database
+
+* MySQL
+* SQL
+
+### Tools & DevOps
+
+* Git
+* GitHub
+* Maven
+* Postman
+* CI/CD
+* Agile/Scrum
+
+### Additional Skills
+
+* Responsive UI Development
+* Component Architecture
+* API Integration
+* Performance Optimization
+* Database Design
+* Problem Solving
+* Data Structures & Algorithms
 
 ---
 
-## 🎯 Current Focus
+## 🚀 What I Build
 
-- Advanced Test Automation Framework Design  
-- API Automation & Backend Testing  
-- CI/CD Integration for Automation  
-- Improving test reliability and coverage  
+* Responsive and modern web applications using React
+* Reusable and scalable UI component libraries
+* REST API integrations with secure state management
+* Backend services using Java & Spring Boot
+* Full-stack applications with clean architecture
+* AI-powered and data-driven applications
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Spring Boot
+* Microservices Architecture
+* System Design
+* Docker & Kubernetes
+* AWS Cloud
+* Advanced React Patterns
+* High-Level & Low-Level Design
+
+---
+
+## 🎯 2026 Goals
+
+* Build production-scale full-stack applications
+* Master system design and backend architecture
+* Solve 500+ DSA problems
+* Contribute to open-source projects
+* Land a Software Engineer role at a top product-based company
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn
+* 💻 GitHub
+* 🧩 LeetCode
+
+Always excited to collaborate on interesting projects and learn new technologies.
